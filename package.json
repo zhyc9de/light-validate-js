@@ -2,7 +2,7 @@
   "name": "light-validate-js",
   "version": "0.0.1-beta.2",
   "description": "Light weight, flexible JS validate helpers, support async, group validation",
-  "main": "src/validate.js",
+  "main": "src",
   "scripts": {
     "build": "./node_modules/.bin/webpack",
     "test": "./node_modules/.bin/mocha test",
